@@ -55,7 +55,7 @@ numbers
 udacious <- c("Chris Saden", "Lauren Castellano",
               "Sarah Spikes","Dean Eckles",
               "Andy Brown", "Moira Burke",
-              "Kunal Chawla", YOUR_NAME)
+              "Kunal Chawla", "Mighty Itauma")
 
 # Notice how R updates 'udacious' in the workspace.
 # It should now say something like 'chr[1:8]'.
@@ -141,7 +141,7 @@ data(mtcars)
 
 # Visit http://cran.r-project.org/doc/manuals/r-release/R-lang.html#Promise-objects
 # if you want the expert insight on Promise objects. You won't
-# need to the info on Promise objects to be successful in this course.
+# need the info on Promise objects to be successful in this course.
 
 names(mtcars)
 

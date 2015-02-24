@@ -1,2 +1,3 @@
-# EDA_Course_Materials
-Data Analysis with R Course Materials. UDACITY!
+# Exploring Data Analysis Course Materials
+Data Analysis with R. 
+Visit [UDACITY](https://www.udacity.com/ "Stay Udacios!") to take this amazing course!
